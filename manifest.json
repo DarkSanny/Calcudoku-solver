@@ -3,7 +3,7 @@
     "action": {},
     "manifest_version": 3,
     "version": "0.1",
-    "description": "Help you become to god of killer sudoku on calcudoku",
+    "description": "Helps you become to god of killer sudoku on calcudoku",
     "permissions": [
       "activeTab",
       "scripting"
